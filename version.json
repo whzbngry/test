@@ -1,1 +1,4 @@
-{"version": "1.0.1", "url": "https://github.com/waveshareteam/ESP32-S3-Touch-LCD-3.5/blob/main/Firmware/ESP32-S3-Touch-LCD-3.5-factory.bin"}
+{
+  "version": "1.0.1",
+  "url": "https://raw.githubusercontent.com/waveshareteam/ESP32-S3-Touch-LCD-3.5/main/Firmware/ESP32-S3-Touch-LCD-3.5-factory.bin"
+}
